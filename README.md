@@ -36,18 +36,18 @@ project-root/
 
 ## Installation
 
-[Describe the steps that users (not developers) should follow to install the code in each of the intended platforms (e.g. Window 10, MacOS, etc.).]
+Clone the repository and run `code/00_sample_analysis.R`
 
 **Requirements** 
-- [List the software, OS, and/or technologies on which the code depends, and add hyperlinks to the sources whenever possible.]
-- [State any relevant hardware requirements.]
+- R
+- The `palmerpenguins`, `ggplot2`, and `dplyr` libraries
 
 ## License
 This software is distributed under a [CC-BY](LICENSE). 
 
 ## Copyright
 
-&copy; , The Netherlands. 
+&copy; Enschede, The Netherlands. 
 
 ## Citation
 
@@ -58,4 +58,3 @@ This software is distributed under a [CC-BY](LICENSE).
 ## Acknowlegdements
 
 - [Best practices for sustainable software project, TDCC NES](https://github.com/SS-NES)
-- [Any other acknowlegdements]
