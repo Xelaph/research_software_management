@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.0.3
+_src_path: https://github.com/delapazruiz/fairRcode.git
+authors: Alex
+citation: true
+code_of_conduct: false
+community: false
+copyright_holder: Alex
+copyright_year: 2026
+owner: Alex
+software_license: GNU General Public License v3 (GPLv3)
+software_name: Test
+software_purpose: The purpose of Test is testing
