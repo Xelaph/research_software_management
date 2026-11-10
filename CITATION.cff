@@ -13,8 +13,16 @@ authors:
     email: alex.hylkema@utwente.nl
     affiliation: University of Twente
     orcid: 'https://orcid.org/0009-0005-6470-9734'
-repository-code: 'https://gitlab.utwente.nl/m7795765/test'
+  - given-names: Poorya
+    family-names: Ghafoorpoor Yazdi
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24104293
+repository-code: 'https://github.com/Xelaph/research_software_management'
 abstract: >-
   This is a test software for the course 'Research Software
   Management'.
 license: GPL-3.0
+commit: ef683fb60581b8fbc740a90a86628360627cf03d
+version: v0.0.1
+date-released: '2026-11-10'
